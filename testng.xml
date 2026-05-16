@@ -1,0 +1,6 @@
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Test.ProductDetailsPageTest"/>
+    </classes>
+  </test> </suite> 
